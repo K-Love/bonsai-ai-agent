@@ -1,0 +1,4 @@
+# Open requirements.txt and add:
+black
+pylint
+pytest
