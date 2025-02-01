@@ -1,0 +1,1 @@
+{'project_name': 'bonsai_ai_agent', 'version': '0.1.0', 'api_keys': {'openai_key': 'YOUR_OPENAI_KEY', 'web3_provider': 'YOUR_WEB3_PROVIDER', 'shopify_api_key': 'YOUR_SHOPIFY_KEY'}, 'database': {'host': 'localhost', 'port': 5432, 'name': 'bonsai_db'}}
