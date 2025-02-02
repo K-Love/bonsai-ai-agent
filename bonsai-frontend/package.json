@@ -14,9 +14,11 @@
     "@stripe/stripe-js": "^5.6.0",
     "axios": "^1.7.9",
     "next": "15.1.6",
+    "openai": "^4.82.0",
     "prisma": "^6.3.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "stripe": "^17.6.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
